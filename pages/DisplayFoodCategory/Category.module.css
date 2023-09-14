@@ -1,0 +1,72 @@
+
+
+.InnerpageNavbar {
+  background-color: #0C2340; /* You can change this color code to your desired shade of dark blue */
+    color: #fff;
+    
+  }
+
+  .InnerpageNavbar a{
+    color: red;
+  }
+  .InnerpageTitle {
+    background-color: #0C2340; 
+    color: #fff;
+     /* margin-top: 0px;  */
+  }
+
+
+
+
+
+.smallCard {  
+    padding-left: 50px;
+    
+  }
+  
+.smallFont {
+    font-size: 18px; 
+    text-align: center;
+    font-weight: bold; 
+  }
+
+.menuTitle {
+  color: rgb(68, 67, 71);
+  text-wrap: wrap;
+ 
+}
+
+ .InnerPageCategoryTitle{
+    
+   margin-bottom: 30px;
+    padding-top: 70px;
+    
+  }
+
+  
+  
+  
+.InnerPageCategoryTitle{
+  background-color: #0C2340;
+  font-size: 24px;
+}
+
+.Logo {
+  font-size: 30px;
+  font-weight: bold;
+  color: #333; 
+  margin: 0; 
+  font-family: none;
+  text-decoration: none;
+}
+
+.HomePageCardImage {
+  max-width: 100%;
+}
+
+.cardContainerCenter{
+  flex-wrap: wrap;
+  margin: 0 auto;
+  
+  
+}

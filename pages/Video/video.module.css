@@ -1,0 +1,14 @@
+.VideoContainer video::-webkit-media-controls-start-playback-button,
+.VideoContainer video::-webkit-media-controls-play-button {
+  display: none !important;
+  
+}
+
+.VideoContainer video::-webkit-media-controls {
+  display: none;
+ 
+}
+
+.VideoContainer{
+  margin-top: 90px;
+}
